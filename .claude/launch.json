@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "degosteria",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["-y", "serve", "-l", "4173", "."],
+      "port": 4173
+    },
+    {
+      "name": "whitebakery",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["-y", "serve", "-l", "4180", "../WhiteBakery"],
+      "port": 4180
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.ladegosteria.it)",
+      "WebFetch(domain:whitebakery.it)",
+      "Bash(mkdir -p \"C:/Users/ujebo/Desktop/Website_Claude_Design/WhiteBakery/css\" \"C:/Users/ujebo/Desktop/Website_Claude_Design/WhiteBakery/js\" \"C:/Users/ujebo/Desktop/Website_Claude_Design/WhiteBakery/assets\")",
+      "Read(//c/Users/ujebo/Desktop/Website_Claude_Design/**)",
+      "mcp__Claude_Preview__preview_start"
+    ]
+  }
+}
